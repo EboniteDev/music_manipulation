@@ -18,6 +18,7 @@ What I can suggest however is:
 	<p>
 - fooyin
 	a reasonable music player with a lot of straightforward User Interface customization compared to other players. It also has the possibility to edit lyrics. And export images.
+<p>
 ![View of a custom layout](https://raw.githubusercontent.com/EboniteDev/Images/refs/heads/main/fooyin_configuration_example.png?token=GHSAT0AAAAAADZX74NGYI2SS7L2X2MC54K42OT5PQA)
 ![View of simple lyrics](https://raw.githubusercontent.com/EboniteDev/Images/refs/heads/main/fooyin_simple_lyrics_example.png?token=GHSAT0AAAAAADZX74NHU4APGD5IK6H5VHWC2OT5PUQ)
 	<p>
