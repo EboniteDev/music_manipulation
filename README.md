@@ -54,22 +54,6 @@ Master directory (UNIX reference):
 ~~~
 
 ---
-## ReplayGain - normalizing the volume of songs
-> [!Question]
->> Why should I do this?
-
-> [!Answer]
-With ReplayGain you can listen to your library or songs without bleeding your ears because the previous song was too quiet.
-
-### How should I do this?
-
-> I found useful to install on Linux systems this package "rsgain", there are other programs obviously, but I only found this to be reliable on different software like: VLC (desktop and iOS), Audacious, qmmp, fooyin.
-> 
-> You can find my command in this repository but you should change it accordingly because it SHOULD only work with .ogg files and the target loudness is -6dB.
-
-### Are there any drawbacks?
-
-> Personally I did not find any but if your song as many variation of loudness it could interfere with the volumes, in the sense that you might ear something funny, like audio corruption in a nutshell.
 
 ## Replace relative/absolute paths
 > [!Question]
