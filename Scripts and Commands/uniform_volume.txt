@@ -1,0 +1,4 @@
+rsgain easy . # automatic ReplayGain tagging
+
+rsgain custom --loudness=-12 --opus-mode=t --tagmode=i . # lowers/raises gain to match the -12dB target of the files, tagging so no changes to audio stream
+
