@@ -1,0 +1,6 @@
+On current directory run:
+
+    vim .
+
+then inside vim run this command:
+    :argadd **/*.m3u | argdo %s/\/home\/user01\/Music\//..\//g | update

@@ -1,0 +1,6 @@
+rsgain --tagmode=d *.ogg # FIRST remove all gain tags
+
+rsgain easy . # automatic ReplayGain tagging
+
+rsgain custom --loudness=-15 --tagmode=i -t *.ogg # lowers/raises gain to match the dB target of the files, tagging so no changes to audio stream
+
